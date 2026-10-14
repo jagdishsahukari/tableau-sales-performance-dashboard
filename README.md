@@ -32,7 +32,7 @@ The dashboard also has filters and page navigation.
 
 ## Dataset
 
-- **File:** `data/sales_data.xlsx` (15,000 rows, 15 columns)
+- **File:** [`data/sales_data.xlsx`](data/sales_data.xlsx) (15,000 rows, 15 columns)
 - **Columns:** Order Date, Year, Order Qty, Cost of Sales, Sales, Profit, Channel, Product Name, Manufacturer, Brand Name, Product Sub Category, Product Category, Region, City, Country
 - **Use:** learning and portfolio purposes.
 
@@ -44,17 +44,17 @@ The dashboard also has filters and page navigation.
 ## How to Run
 
 1. Download or clone this repository.
-2. Open `sales_performance_dashboard.twbx` in Tableau Desktop or Tableau Public.
+2. Open [`sales_performance_dashboard.twbx`](sales_performance_dashboard.twbx) in Tableau Desktop or Tableau Public.
 3. Use the filters and page navigation to explore the dashboard.
-4. To rebuild it, create a new workbook, connect to `data/sales_data.xlsx` and recreate the sheets listed above.
+4. To rebuild it, create a new workbook, connect to [`data/sales_data.xlsx`](data/sales_data.xlsx) and recreate the sheets listed above.
 
 ## Project Files
 
-| File | Purpose |
+| File / Folder | Purpose |
 | --- | --- |
-| `sales_performance_dashboard.twbx` | Tableau packaged workbook (opens with data included) |
-| `data/sales_data.xlsx` | Source dataset |
-| `screenshots/` | Dashboard screenshots |
+| [`sales_performance_dashboard.twbx`](sales_performance_dashboard.twbx) | Tableau packaged workbook (opens with data included) |
+| [`data/`](data) | Folder for the source dataset |
+| [`data/sales_data.xlsx`](data/sales_data.xlsx) | Source dataset (15,000 rows) |
 
 ## Screenshots
 
