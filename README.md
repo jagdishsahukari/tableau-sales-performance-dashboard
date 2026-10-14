@@ -28,7 +28,7 @@ A sales team needs one place to see how the business is performing: how much it 
 | Geography | Profit by Region, Sales by Country (map) |
 | Products and brands | Top 10 Products by Sales, Brand Performance |
 
-The dashboard also has filters and page navigation.
+The dashboard has seven filters (Year, Country, Region, Category, Channel, Brand, Product), a Reset Filters button, and side navigation buttons (Overview, Category, Region, Products, Details).
 
 ## Dataset
 
@@ -55,12 +55,12 @@ The dashboard also has filters and page navigation.
 | [`sales_performance_dashboard.twbx`](sales_performance_dashboard.twbx) | Tableau packaged workbook (opens with data included) |
 | [`data/`](data) | Folder for the source dataset |
 | [`data/sales_data.xlsx`](data/sales_data.xlsx) | Source dataset (15,000 rows) |
+| [`screenshots/`](screenshots) | Folder for dashboard screenshots |
+| [`screenshots/01_dashboard_overview.png`](screenshots/01_dashboard_overview.png) | Dashboard overview image |
 
 ## Screenshots
 
-<!-- After adding your screenshot to the screenshots folder, replace this comment with:
-![Sales Dashboard Overview](screenshots/01_dashboard_overview.png)
--->
+![Sales Performance Dashboard Overview](screenshots/01_dashboard_overview.png)
 
 ## Author
 
